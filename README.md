@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/0c677f6a47af8b61ca3a6.jpg">
+  <img src="https://telegra.ph/file/4a74d4b2c03b20242b901.jpg" 
 </p>
 
 ## Pikachu TG-Uploader Bot
