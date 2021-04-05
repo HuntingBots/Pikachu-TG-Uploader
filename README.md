@@ -1,7 +1,7 @@
-## URL Uploader Bot
+## Pikachu TG-Uploader Bot
 ---
 
-An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
+Hello, I'm Pikachu An Anime Themed Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 **My Features**:
 
