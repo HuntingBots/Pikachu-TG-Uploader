@@ -17,7 +17,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-URL-Uploader/tree/master)
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+**Watch our Video for Create own Bot** - 👉 unknown 
 
 #### The Hard Way
 
@@ -31,17 +31,12 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [Support](https://telegram.dog/urltofile_support)
+* [Discussion](https://telegram.dog/helpcentrebot1)
+* [Second Group](https://telegram.dog/fire_world_entertainment)
 
-## Credits, and Thanks to
+## Credits, and Thanks to [Bot Owner](https://telegram.dog/The_Ghost_Hunter)
 
-* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-
-- For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/InFoTelGroup)
 
 #### LICENSE
 - GPLv3
