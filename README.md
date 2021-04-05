@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://telegra.ph/file/0c677f6a47af8b61ca3a6.jpg">
+</p>
+
 ## Pikachu TG-Uploader Bot
 ---
 
