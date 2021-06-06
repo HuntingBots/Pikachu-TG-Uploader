@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://telegram.dog/CloudPlus_URLUploader_bot",
+  "logo": "https://telegra.ph/file/466f3ad054322c962cfd1.jpg",
+  "repository": "https://github.com/HuntingBots/Pikachu-TG-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -40,7 +40,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "1606221784"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
@@ -49,7 +49,7 @@
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
-      "value": "",
+      "value": "fire_world_entertainment",
       "required": false
     },
     "DEF_THUMB_NAIL_VID_S": {
